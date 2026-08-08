@@ -1,11 +1,7 @@
-<!-- Animated Header with Particles Effect -->
+<h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
+<!--Animated Typing Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,15&height=300&section=header&text=Saksham%20Mishra&fontSize=90&fontAlignY=30&animation=twinkling&desc=Full-Stack%20Developer%20⚡%20DSA%20Learner&descSize=28&descAlignY=55" width="100%"/>
-</div>
-
-<!-- Animated Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=80&lines=🚀+Hey+There!+I'm+Saksham;💻+Full-Stack+Developer;📚+DSA+Enthusiast;🔥+Problem+Solver;⚡+Code+Optimizer;🌟+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;Code+Optimizer;Tech+Explorer" alt="Typing SVG" />
 </div>
 
 <!-- Social & Profile Badges -->
@@ -28,13 +24,14 @@
 
 <!-- Profile Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saksham17-tech&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=saksham17-tech&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/saksham17-tech?label=Followers&style=for-the-badge&color=00D4FF" />
   <img src="https://img.shields.io/github/stars/saksham17-tech?label=Stars&style=for-the-badge&color=00D4FF" />
+</div>
 
 ---
 
-<!-- Cool About Me Section -->
+<!-- About Me Section -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -79,7 +76,7 @@
 
 ---
 
-<!-- Tech Stack with Better Coverage -->
+<!-- Tech Stack -->
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
 </div>
@@ -116,46 +113,40 @@
 
 ---
 
-<!-- Learning Journey with Better Visualization -->
+<!-- Learning Journey -->
 <div align="center">
   <h2>📈 Learning Journey</h2>
 </div>
 
 <div align="center">
-  <table width="80%">
+  <table width="90%">
     <tr>
-      <td width="50%" align="center">
-        <b>Data Structures & Algorithms</b><br>
-        <img src="https://progress-bar.dev/70/?width=350&color=00D4FF" /><br>
+      <td width="50%" align="center" style="padding: 10px;">
+        <b>📊 Data Structures & Algorithms</b><br>
         <i>Arrays, Strings, Linked Lists, Trees, Graphs, DP</i>
       </td>
-      <td width="50%" align="center">
-        <b>React.js</b><br>
-        <img src="https://progress-bar.dev/55/?width=350&color=FF6B6B" /><br>
+      <td width="50%" align="center" style="padding: 10px;">
+        <b>⚛️ React.js</b><br>
         <i>Hooks, State Management, Routing, Context API</i>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <b>Node.js</b><br>
-        <img src="https://progress-bar.dev/50/?width=350&color=FFD93D" /><br>
+      <td width="50%" align="center" style="padding: 10px;">
+        <b>🟢 Node.js</b><br>
         <i>Express, REST APIs, Authentication, Middleware</i>
       </td>
-      <td width="50%" align="center">
-        <b>Cloud Computing</b><br>
-        <img src="https://progress-bar.dev/30/?width=350&color=6C5CE7" /><br>
+      <td width="50%" align="center" style="padding: 10px;">
+        <b>☁️ Cloud Computing</b><br>
         <i>AWS Basics, EC2, S3, IAM, VPC</i>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <b>System Design</b><br>
-        <img src="https://progress-bar.dev/25/?width=350&color=A8E6CF" /><br>
+      <td width="50%" align="center" style="padding: 10px;">
+        <b>🏗️ System Design</b><br>
         <i>Scalability, Microservices, Caching, Load Balancing</i>
       </td>
-      <td width="50%" align="center">
-        <b>DevOps</b><br>
-        <img src="https://progress-bar.dev/20/?width=350&color=FF8A5C" /><br>
+      <td width="50%" align="center" style="padding: 10px;">
+        <b>🔄 DevOps</b><br>
         <i>Docker, CI/CD, Kubernetes, Monitoring</i>
       </td>
     </tr>
@@ -170,25 +161,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saksham17-tech&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham17-tech&layout=compact&hide_border=true&title_color=00D4FF&text_color=00D4FF&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham17-tech&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=saksham17-tech&row=2&column=3&theme=radical&no-frame=true&no-bg=true" />
-</div>
-
----
-
-<!-- Contribution Snake Animation -->
-<div align="center">
-  <h2>🐍 Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham17-tech/saksham17-tech/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham17-tech/saksham17-tech/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saksham17-tech/saksham17-tech/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham17-tech&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" /> 
 </div>
 
 ---
@@ -200,11 +173,6 @@
 </div>
 
 ---
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,15&height=200&section=footer" width="100%"/>
-</div>
 
 <div align="center">
   <b>⭐️ Show some love by starring my repositories! ⭐️</b>
